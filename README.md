@@ -1,5 +1,4 @@
 - 👋 Hi there
-- 🌱 I’m currently learning **spring boot**
 - 💞️ I love **reading tech articles** & **watching anime**
 - 📫 How to reach me hopey.pete@gmail.com
 
